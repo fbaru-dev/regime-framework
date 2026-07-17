@@ -106,7 +106,7 @@ Risk-free rate defaults to 2% and is subtracted in both Sharpe and Sortino. All 
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/regime-framework.git
+git clone https://github.com/fbaru-dev/regime-framework.git
 cd regime-framework
 pip install -r requirements.txt
 ```
